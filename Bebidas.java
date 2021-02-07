@@ -1,5 +1,5 @@
 
 public enum Bebidas {
-	cocacola, fantaNaranja, fantaLimon, agua
+	cocacola, fantaNaranja, fantaLimon, agua, tonica, soda
 
 }
