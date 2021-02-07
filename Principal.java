@@ -4,6 +4,8 @@ import java.util.Scanner;
 public class Principal {
 	static Scanner sc;
 	public static void main(String[] args) {
+		Bebidas bb= Bebidas.agua;
+		System.out.println(bb);
 		ArrayList<Bebida> bebidaList= new ArrayList<Bebida>();
 		Bebida cocaCola=new Bebida("CocaCola",1.30F);
 		Bebida fantaNaranja=new Bebida("Fanta de Naranja",1.20F);
